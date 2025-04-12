@@ -12,7 +12,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
-- [Disclaimer & Legal Notice](#disclaimer--legal-notice)
+- [Disclaimer & Legal Notice](#disclaimer)
 
 ---
 

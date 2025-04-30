@@ -1,7 +1,7 @@
 
 # Ransomeware
 
-**Ransomeware** is a Python-based tool designed to simulate ransomware behavior by encrypting files within a target directory and displaying a humorous (yet alarming) message on the desktop. The tool uses `pyAesCrypt` for file encryption/decryption and the `Pillow` library to generate an image with a custom message. **Use responsibly and only for educational or authorized testing purposes.**
+**Ransomeware** is a Python-based tool designed to simulate ransomware behavior by encrypting files within a target directory and displaying a humorous (yet alarming) message on the desktop. The tool uses `pyAesCrypt` for file encryption/decryption and the `Pillow` library to generate an image with a custom message. **Use responsibly and only for educational or authorized testing purposes. **
 
 ---
 
